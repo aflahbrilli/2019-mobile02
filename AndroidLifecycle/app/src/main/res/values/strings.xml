@@ -1,3 +1,5 @@
 <resources>
 	<string name="app_name">Android Lifecycle</string>
+    <string name="hint_name">Aflah Brilli</string>
+    <string name="submit">Aflah Brilli</string>
 </resources>
